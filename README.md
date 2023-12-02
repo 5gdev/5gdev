@@ -5,7 +5,7 @@ My other interests, although not as important as tech, are anime and graphic des
 Wanna hang out? Add me on Discord! (@mr5g)
 ## Projects
 ### 10++
-10++ is a Windows 10 modification that tries to improve Windows 10's consistency, as well as making it fluent.
+10++ is a Windows 10 modification that tries to improve Windows 10.
 
 
 <!---
